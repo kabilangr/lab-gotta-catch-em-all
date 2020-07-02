@@ -1,11 +1,11 @@
 package testing;
-/*
+
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-import model.Bulbasaur;
-import model.Pokemon;
+import model.*;
+
 
 public class TestBulbasaur {
 	
@@ -70,4 +70,4 @@ public class TestBulbasaur {
 	}
 }
 
-*/
+
